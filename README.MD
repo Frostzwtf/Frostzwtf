@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Frostzwtf
+- 👀 I’m interested in learning how to use Python and also HTML
+- 🌱 I’m currently learning Python and HTML 
